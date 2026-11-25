@@ -1,0 +1,19 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# API keys and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conversation history and generated files
+data/history.json
+data/generated_files/*.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
